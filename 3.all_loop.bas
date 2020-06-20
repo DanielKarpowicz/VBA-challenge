@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module5"
 Sub all_loop()
 
 'loop through all, referenced: https://www.automateexcel.com/vba/cycle-and-update-all-worksheets/
